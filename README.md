@@ -1,6 +1,9 @@
 # fast-react-pizza
 This is a pizza shop application where users can easily order pizza.
 
+## Project's Link
+https://fast-react-pizza-omega.vercel.app/
+
 ## Features: 
 1. easy & fast sign up
 2. Menu page
