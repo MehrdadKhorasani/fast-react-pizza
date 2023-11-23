@@ -1,5 +1,5 @@
 # fast-react-pizza
-This is a pizza shop application where users can easily order pizza.
+This is a pizza shop application where users can easily order pizza. This application is a part of a course offered by Jonas Schmedtmann. I built the application when i took the course.
 
 ## Project's Link
 https://fast-react-pizza-omega.vercel.app/
